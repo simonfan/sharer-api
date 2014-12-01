@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lorem-ipsum": "^1.0.1"
+    "gm": "^1.17.0",
+    "lodash": "^2.4.1",
+    "lorem-ipsum": "^1.0.1",
+    "request": "^2.49.0"
   }
 }
